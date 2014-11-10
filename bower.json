@@ -1,0 +1,41 @@
+{
+  "name": "angular-js-itc-security",
+  "version": "0.0.1",
+  "license": "MIT",
+  "authors": [
+    "Piotr Kozlowski <piotr.kozlowski@itcrowd.pl>",
+    "Bernard Labno <bernard.labno@itcrowd.pl>"
+  ],
+  "description": "AngularJS utility used by IT Crowd",
+  "main": "dist/angularjs-itc-security.js",
+  "dependencies": {
+    "angular": "~1.2.13",
+    "angular-http-auth": "~1.2.2",
+    "angular-gettext": "~1.1.4"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "angularjs",
+    "angular",
+    "directives",
+    "itcrowd",
+    "itcrowd.pl",
+    "javascript"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    ".bowerrc",
+    ".gitignore",
+    ".gitattributes",
+    ".travis.yml",
+    "karma.conf.js",
+    "karma-e2e.conf.js",
+    ".jshintignore",
+    ".jshintrc",
+    "Gruntfile.js",
+    "package.json"
+  ]
+}
